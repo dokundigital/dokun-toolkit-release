@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 17:20:00",
+  "last_updated": "2026-04-08 17:40:00",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.10/dokun-toolkit-v0.1.10.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.10",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.11/dokun-toolkit-v0.1.11.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.11",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Adjust WhatsApp icon optical centering within the floating circle button."
+    "changelog": "Fix strict icon centering in floating WhatsApp button using absolute center alignment."
   }
 }
