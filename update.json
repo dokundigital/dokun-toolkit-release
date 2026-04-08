@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 13:20:00",
+  "last_updated": "2026-04-08 13:40:00",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.2/dokun-toolkit-v0.1.2.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.2",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.3/dokun-toolkit-v0.1.3.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.3",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Fix updater fatal null type handling and simplify manifest-based updater settings."
+    "changelog": "Version bump test release without functional changes."
   }
 }
