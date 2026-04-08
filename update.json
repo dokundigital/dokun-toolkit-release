@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 13:40:00",
+  "last_updated": "2026-04-08 14:15:00",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.3/dokun-toolkit-v0.1.3.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.3",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.4/dokun-toolkit-v0.1.4.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.4",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Version bump test release without functional changes."
+    "changelog": "Add Floating WhatsApp module with button and widget modes, plus updater dashboard simplification."
   }
 }
