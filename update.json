@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 16:05:00",
+  "last_updated": "2026-04-08 16:30:00",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.7/dokun-toolkit-v0.1.7.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.7",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.8/dokun-toolkit-v0.1.8.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.8",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Improve floating WhatsApp visual fidelity: icon style and button color application fixes."
+    "changelog": "Add configurable button radius (default circle) and hard reset button style to remove fallback border."
   }
 }
