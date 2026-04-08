@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 15:00:00",
+  "last_updated": "2026-04-08 15:35:00",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.5/dokun-toolkit-v0.1.5.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.5",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.6/dokun-toolkit-v0.1.6.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.6",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Improve admin performance by making updater dashboard cache-only, reducing remote timeout, and adding failure backoff cache."
+    "changelog": "Add proper WhatsApp icon for floating button and allow customizable button background color."
   }
 }
