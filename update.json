@@ -2,16 +2,16 @@
   "name": "Dokun Toolkit",
   "slug": "dokun-toolkit",
   "plugin": "dokun-toolkit/dokun-toolkit.php",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "requires": "6.2",
   "requires_php": "8.1",
   "tested": "6.8",
-  "last_updated": "2026-04-08 22:34:59",
+  "last_updated": "2026-04-10 10:07:48",
   "homepage": "https://github.com/dokundigital/dokun-toolkit-release",
-  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.12/dokun-toolkit-v0.1.12.zip",
-  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.12",
+  "download_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/download/v0.1.13/dokun-toolkit-v0.1.13.zip",
+  "details_url": "https://github.com/dokundigital/dokun-toolkit-release/releases/tag/v0.1.13",
   "sections": {
     "description": "Reusable internal toolkit plugin for Dokun Digital WordPress projects.",
-    "changelog": "Add Debug Tools admin page to safely manage WP_DEBUG constants from dashboard and persist wp-config.php updates with backup."
+    "changelog": "Fix Login Rewrite flow so wp-login POST submissions are processed correctly: failed login shows error, successful login continues to wp-admin."
   }
 }
